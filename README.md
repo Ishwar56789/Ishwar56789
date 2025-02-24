@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Ishwar
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Spring Boot
-- 💞️ I’m looking to collaborate on open source projects
+- 💞️ I’m looking to collaborate on Spring Boot open source projects
 - 📫 How to reach me eshwararu5@gmail.com 
 - ⚡ Fun fact: ...
 
