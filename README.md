@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Ishwar Aru
+- 👋 Hi, I’m Ishwar
 - 👀 I’m interested in Web Developement
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on open source projects
