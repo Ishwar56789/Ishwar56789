@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ishwar
-- 👀 I’m interested in Web Developement
+- 👀 I’m interested in Computer Science
 - 🌱 I’m currently learning Spring Boot
 - 💞️ I’m looking to collaborate on Spring Boot open source projects
 - 📫 How to reach me eshwararu5@gmail.com 
